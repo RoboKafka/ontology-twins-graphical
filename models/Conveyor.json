@@ -1,0 +1,10 @@
+{
+  "@id": "dtmi:ex:domain:Conveyor;1",
+  "@type": "Interface",
+  "@context": "dtmi:dtdl:context;2",
+  "extends": [ "dtmi:ex:domain:Device;1" ],
+  "displayName": "Conveyor",
+  "contents": [
+    { "@type": "Property", "name": "beltSpeed", "schema": "double" }
+  ]
+}

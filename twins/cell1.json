@@ -1,0 +1,5 @@
+{
+  "$dtId": "cell1",
+  "$metadata": { "$model": "dtmi:ex:domain:ProjectCell;1" },
+  "Throughput": 120
+}

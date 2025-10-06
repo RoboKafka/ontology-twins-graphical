@@ -1,0 +1,26 @@
+[
+  {
+    "$relationshipId": "cell1-hasDevice-robot1",
+    "$sourceId": "cell1",
+    "$relationshipName": "hasDevice",
+    "$targetId": "robot1"
+  },
+  {
+    "$relationshipId": "cell1-hasDevice-robot2",
+    "$sourceId": "cell1",
+    "$relationshipName": "hasDevice",
+    "$targetId": "robot2"
+  },
+  {
+    "$relationshipId": "cell1-hasDevice-conveyor1",
+    "$sourceId": "cell1",
+    "$relationshipName": "hasDevice",
+    "$targetId": "conveyor1"
+  },
+   {
+    "$relationshipId": "cell1-hasDevice-conveyor2",
+    "$sourceId": "cell1",
+    "$relationshipName": "hasDevice",
+    "$targetId": "conveyor2"
+  }
+]
